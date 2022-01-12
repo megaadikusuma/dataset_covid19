@@ -1,0 +1,94 @@
+Date,Location,New Cases,New Deaths,New Recovered,New Active Cases,Total Cases,Total Deaths,Total Recovered,Total Active Cases,Province,Country,Island
+1,Aceh,204,6,67,131,23250,992,16942,5316,Aceh,Indonesia,Sumatera
+2,Aceh,62,2,188,-128,23312,994,17130,5188,Aceh,Indonesia,Sumatera
+3,Aceh,259,14,168,77,23571,1008,17298,5265,Aceh,Indonesia,Sumatera
+4,Aceh,351,10,99,242,23922,1018,17397,5507,Aceh,Indonesia,Sumatera
+5,Aceh,285,18,133,134,24207,1036,17530,5641,Aceh,Indonesia,Sumatera
+6,Aceh,383,4,192,187,24590,1040,17722,5828,Aceh,Indonesia,Sumatera
+7,Aceh,343,13,184,146,24933,1053,17906,5974,Aceh,Indonesia,Sumatera
+8,Aceh,285,11,327,-53,25218,1064,18233,5921,Aceh,Indonesia,Sumatera
+9,Aceh,152,20,137,-5,25370,1084,18370,5916,Aceh,Indonesia,Sumatera
+10,Aceh,379,7,95,277,25749,1091,18465,6193,Aceh,Indonesia,Sumatera
+11,Aceh,385,6,151,228,26134,1097,18616,6421,Aceh,Indonesia,Sumatera
+12,Aceh,181,30,375,-224,26315,1127,18991,6197,Aceh,Indonesia,Sumatera
+13,Aceh,411,9,383,19,26726,1136,19374,6216,Aceh,Indonesia,Sumatera
+14,Aceh,397,16,561,-180,27123,1152,19935,6036,Aceh,Indonesia,Sumatera
+15,Aceh,310,10,1035,-735,27433,1162,20970,5301,Aceh,Indonesia,Sumatera
+16,Aceh,341,27,136,178,27774,1189,21106,5479,Aceh,Indonesia,Sumatera
+17,Aceh,390,12,220,158,28164,1201,21326,5637,Aceh,Indonesia,Sumatera
+18,Aceh,383,10,176,197,28547,1211,21502,5834,Aceh,Indonesia,Sumatera
+19,Aceh,355,12,238,105,28902,1223,21740,5939,Aceh,Indonesia,Sumatera
+20,Aceh,459,22,244,193,29361,1245,21984,6132,Aceh,Indonesia,Sumatera
+21,Aceh,382,29,256,97,29743,1274,22240,6229,Aceh,Indonesia,Sumatera
+22,Aceh,334,24,178,132,30077,1298,22418,6361,Aceh,Indonesia,Sumatera
+23,Aceh,229,22,287,-80,30306,1320,22705,6281,Aceh,Indonesia,Sumatera
+24,Aceh,354,13,337,4,30660,1333,23042,6285,Aceh,Indonesia,Sumatera
+25,Aceh,368,19,253,96,31028,1352,23295,6381,Aceh,Indonesia,Sumatera
+26,Aceh,361,17,181,163,31389,1369,23476,6544,Aceh,Indonesia,Sumatera
+27,Aceh,388,16,112,260,31777,1385,23588,6804,Aceh,Indonesia,Sumatera
+28,Aceh,307,23,388,-104,32084,1408,23976,6700,Aceh,Indonesia,Sumatera
+29,Aceh,335,19,194,122,32419,1427,24170,6822,Aceh,Indonesia,Sumatera
+30,Aceh,190,19,223,-52,32609,1446,24393,6770,Aceh,Indonesia,Sumatera
+31,Aceh,327,26,387,-86,32936,1472,24780,6684,Aceh,Indonesia,Sumatera
+1,Bali,1146,33,839,274,77465,2184,62407,12874,Bali,Indonesia,Nusa Tenggara
+2,Bali,1044,47,768,229,78509,2231,63175,13103,Bali,Indonesia,Nusa Tenggara
+3,Bali,1408,38,937,433,79917,2269,64112,13536,Bali,Indonesia,Nusa Tenggara
+4,Bali,1362,37,1075,250,81279,2306,65187,13786,Bali,Indonesia,Nusa Tenggara
+5,Bali,1470,25,1235,210,82749,2331,66422,13996,Bali,Indonesia,Nusa Tenggara
+6,Bali,1239,46,1511,-318,83988,2377,67933,13678,Bali,Indonesia,Nusa Tenggara
+7,Bali,1027,39,1254,-266,85015,2416,69187,13412,Bali,Indonesia,Nusa Tenggara
+8,Bali,1184,25,1279,-120,86199,2441,70466,13292,Bali,Indonesia,Nusa Tenggara
+9,Bali,1018,40,1123,-145,87217,2481,71589,13147,Bali,Indonesia,Nusa Tenggara
+10,Bali,1411,36,1576,-201,88628,2517,73165,12946,Bali,Indonesia,Nusa Tenggara
+11,Bali,1270,27,1142,101,89898,2544,74307,13047,Bali,Indonesia,Nusa Tenggara
+12,Bali,1353,35,1558,-240,91251,2579,75865,12807,Bali,Indonesia,Nusa Tenggara
+13,Bali,1910,51,2124,-265,93161,2630,77989,12542,Bali,Indonesia,Nusa Tenggara
+14,Bali,1795,36,1642,117,94956,2666,79631,12659,Bali,Indonesia,Nusa Tenggara
+15,Bali,1071,43,2046,-1018,96027,2709,81677,11641,Bali,Indonesia,Nusa Tenggara
+16,Bali,888,48,963,-123,96915,2757,82640,11518,Bali,Indonesia,Nusa Tenggara
+17,Bali,988,48,1037,-97,97903,2805,83677,11421,Bali,Indonesia,Nusa Tenggara
+18,Bali,734,66,1154,-486,98637,2871,84831,10935,Bali,Indonesia,Nusa Tenggara
+19,Bali,1032,62,1024,-54,99669,2933,85855,10881,Bali,Indonesia,Nusa Tenggara
+20,Bali,1039,73,1244,-278,100708,3006,87099,10603,Bali,Indonesia,Nusa Tenggara
+21,Bali,849,57,1197,-405,101557,3063,88296,10198,Bali,Indonesia,Nusa Tenggara
+22,Bali,583,52,1055,-524,102140,3115,89351,9674,Bali,Indonesia,Nusa Tenggara
+23,Bali,434,66,1012,-644,102574,3181,90363,9030,Bali,Indonesia,Nusa Tenggara
+24,Bali,934,44,968,-78,103508,3225,91331,8952,Bali,Indonesia,Nusa Tenggara
+25,Bali,746,45,838,-137,104254,3270,92169,8815,Bali,Indonesia,Nusa Tenggara
+26,Bali,565,51,950,-436,104819,3321,93119,8379,Bali,Indonesia,Nusa Tenggara
+27,Bali,558,45,685,-172,105377,3366,93804,8207,Bali,Indonesia,Nusa Tenggara
+28,Bali,474,34,824,-384,105851,3400,94628,7823,Bali,Indonesia,Nusa Tenggara
+29,Bali,302,44,932,-674,106153,3444,95560,7149,Bali,Indonesia,Nusa Tenggara
+30,Bali,305,50,866,-611,106458,3494,96426,6538,Bali,Indonesia,Nusa Tenggara
+31,Bali,376,14,259,103,106834,3508,96685,6641,Bali,Indonesia,Nusa Tenggara
+1,Daerah Istimewa Yogyakarta,1303,58,889,356,119136,3460,78654,37022,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+2,Daerah Istimewa Yogyakarta,1566,46,1508,12,120702,3506,80162,37034,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+3,Daerah Istimewa Yogyakarta,1445,85,1006,354,122147,3591,81168,37388,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+4,Daerah Istimewa Yogyakarta,1862,44,1125,693,124009,3635,82293,38081,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+5,Daerah Istimewa Yogyakarta,1461,59,1139,263,125470,3694,83432,38344,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+6,Daerah Istimewa Yogyakarta,1639,72,2089,-522,127109,3766,85521,37822,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+7,Daerah Istimewa Yogyakarta,1378,83,2116,-821,128487,3849,87637,37001,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+8,Daerah Istimewa Yogyakarta,1194,51,2092,-949,129681,3900,89729,36052,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+9,Daerah Istimewa Yogyakarta,733,59,3212,-2538,130414,3959,92941,33514,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+10,Daerah Istimewa Yogyakarta,1487,62,2647,-1222,131901,4021,95588,32292,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+11,Daerah Istimewa Yogyakarta,1510,52,3377,-1919,133411,4073,98965,30373,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+12,Daerah Istimewa Yogyakarta,1083,30,2770,-1717,134494,4103,101735,28656,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+13,Daerah Istimewa Yogyakarta,1243,65,2939,-1761,135737,4168,104674,26895,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+14,Daerah Istimewa Yogyakarta,1788,42,1461,285,137525,4210,106135,27180,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+15,Daerah Istimewa Yogyakarta,933,81,1318,-466,138458,4291,107453,26714,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+16,Daerah Istimewa Yogyakarta,702,36,1181,-515,139160,4327,108634,26199,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+17,Daerah Istimewa Yogyakarta,1106,44,2818,-1756,140266,4371,111452,24443,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+18,Daerah Istimewa Yogyakarta,634,33,2312,-1711,140900,4404,113764,22732,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+19,Daerah Istimewa Yogyakarta,1175,57,2119,-1001,142075,4461,115883,21731,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+20,Daerah Istimewa Yogyakarta,820,47,2347,-1574,142895,4508,118230,20157,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+21,Daerah Istimewa Yogyakarta,930,29,2541,-1640,143825,4537,120771,18517,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+22,Daerah Istimewa Yogyakarta,783,39,1125,-381,144608,4576,121896,18136,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+23,Daerah Istimewa Yogyakarta,507,39,1554,-1086,145115,4615,123450,17050,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+24,Daerah Istimewa Yogyakarta,748,39,1723,-1014,145863,4654,125173,16036,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+25,Daerah Istimewa Yogyakarta,873,39,1207,-373,146736,4693,126380,15663,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+26,Daerah Istimewa Yogyakarta,795,15,1383,-603,147531,4708,127763,15060,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+27,Daerah Istimewa Yogyakarta,688,21,1114,-447,148219,4729,128877,14613,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+28,Daerah Istimewa Yogyakarta,525,31,1054,-560,148744,4760,129931,14053,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+29,Daerah Istimewa Yogyakarta,398,22,737,-361,149142,4782,130668,13692,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+30,Daerah Istimewa Yogyakarta,237,35,970,-768,149379,4817,131638,12924,Daerah Istimewa Yogyakarta,Indonesia,Jawa
+31,Daerah Istimewa Yogyakarta,539,33,1127,-621,149918,4850,132765,12303,Daerah Istimewa Yogyakarta,Indonesia,Jawa
